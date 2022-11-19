@@ -11,3 +11,6 @@ TODO
 NOTE
 - data is same for both parts, but data is unique to a user
 - 
+
+GOALS
+- try coming up with more direct array operations
