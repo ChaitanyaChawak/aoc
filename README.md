@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # aoc
 
 Some people, when confronted with a problem, think "I know, I'll use regular expressions." Now they have two problems.
@@ -15,6 +14,3 @@ NOTE
 
 GOALS
 - try coming up with more direct array operations
-=======
-# aoc
->>>>>>> 0f9b6d5c4e4bfaec24ede62dd833dfa657e28c79
